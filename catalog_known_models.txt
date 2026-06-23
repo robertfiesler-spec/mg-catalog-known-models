@@ -1,0 +1,260 @@
+auradine|auradine-teraflux-ah3880|Auradine Teraflux AH3880
+auradine|auradine-teraflux-ai3680|Auradine Teraflux AI3680
+auradine|auradine-teraflux-at2880|Auradine Teraflux AT2880
+bitaxe|bitaxe-gamma-602|Bitaxe Gamma 602
+bitaxe|bitaxe-gamma-duo-650|Bitaxe Gamma Duo 650
+bitaxe|bitaxe-gt-801|Bitaxe GT 801
+bitaxe|bitaxe-hex-700|Bitaxe Hex 700
+bitaxe|bitaxe-supra-400|Bitaxe Supra 400
+bitaxe|bitaxe-turbo-touch|Bitaxe Turbo Touch
+bitaxe|bitaxe-ultra-200|Bitaxe Ultra 200
+bitaxe|nerdminerv2|NerdMinerV2
+bitaxe|nerdqaxeplusplus|NerdQaxePlusPlus
+bitdeer|sealminer-a2-hyd|SealMiner A2 Hyd
+bitdeer|sealminer-a2-pro-air|SealMiner A2 Pro Air
+bitdeer|sealminer-a2-pro-hyd|SealMiner A2 Pro Hyd
+bitdeer|sealminer-a2|SealMiner A2
+bitdeer|sealminer-a3-air|SealMiner A3 Air
+bitdeer|sealminer-a3-hydro|SealMiner A3 Hydro
+bitdeer|sealminer-a3-pro-air|SealMiner A3 Pro Air
+bitdeer|sealminer-a3-pro-hydro|SealMiner A3 Pro Hydro
+bitdeer|sealminer-a4-pro-air|SealMiner A4 Pro Air
+bitdeer|sealminer-a4-pro-hydro|SealMiner A4 Pro Hydro
+bitdeer|sealminer-a4-ultra-hydro|SealMiner A4 Ultra Hydro
+bitdeer|sealminer-dl1-air|SealMiner DL1 Air
+bitfury|bitfury-b8|Bitfury B8
+bitfury|bitfury-tardis|Bitfury Tardis
+bitmain|antminer-r4|Antminer R4
+bitmain|antminer-s11|Antminer S11
+bitmain|antminer-s15|Antminer S15
+bitmain|antminer-s17|Antminer S17
+bitmain|antminer-s17e|Antminer S17e
+bitmain|antminer-s17-plus|Antminer S17+
+bitmain|antminer-s17-pro|Antminer S17 Pro
+bitmain|antminer-s19a|Antminer S19a
+bitmain|antminer-s19al|Antminer S19al
+bitmain|antminer-s19|Antminer S19
+bitmain|antminer-s19a-pro|Antminer S19a Pro
+bitmain|antminer-s19-hydro-158-th-t19-variant|Antminer S19 Hydro (158 TH) [T19 variant]
+bitmain|antminer-s19-hydro|Antminer S19 Hydro
+bitmain|antminer-s19i|Antminer S19i
+bitmain|antminer-s19j|Antminer S19j
+bitmain|antminer-s19j-pro|Antminer S19j Pro
+bitmain|antminer-s19j-pro-immersion|Antminer S19j Pro Immersion
+bitmain|antminer-s19j-pro-plus|Antminer S19j Pro+
+bitmain|antminer-s19j-pro-plusplus|Antminer S19j Pro++
+bitmain|antminer-s19j-xp|Antminer S19j XP
+bitmain|antminer-s19k-pro|Antminer S19k Pro
+bitmain|antminer-s19-pro-a|Antminer S19 Pro-A
+bitmain|antminer-s19-pro|Antminer S19 Pro
+bitmain|antminer-s19-pro-hyd|Antminer S19 Pro Hyd
+bitmain|antminer-s19-pro-plus|Antminer S19 Pro+
+bitmain|antminer-s19-pro-plus-hyd|Antminer S19 Pro+ Hyd
+bitmain|antminer-s19-pro-plus-hydro|Antminer S19 Pro+ Hydro
+bitmain|antminer-s19-pro-plusplus|Antminer S19 Pro++
+bitmain|antminer-s19-xp|Antminer S19 XP
+bitmain|antminer-s19-xp-hydro|Antminer S19 XP Hydro
+bitmain|antminer-s19-xp-plus-hyd|Antminer S19 XP+ Hyd
+bitmain|antminer-s1|Antminer S1
+bitmain|antminer-s21|Antminer S21
+bitmain|antminer-s21e-hyd|Antminer S21e Hyd
+bitmain|antminer-s21e-xp-hyd-3u|Antminer S21e XP Hyd 3U
+bitmain|antminer-s21-exp-hydro|Antminer S21 EXP Hydro
+bitmain|antminer-s21-hyd|Antminer S21 Hyd
+bitmain|antminer-s21-immersion|Antminer S21 Immersion
+bitmain|antminer-s21j-xp-hyd|Antminer S21j XP Hyd
+bitmain|antminer-s21-plus|Antminer S21+
+bitmain|antminer-s21-plus-hyd|Antminer S21+ Hyd
+bitmain|antminer-s21-pro|Antminer S21 Pro
+bitmain|antminer-s21-xp|Antminer S21 XP
+bitmain|antminer-s21-xp-hyd|Antminer S21 XP Hyd
+bitmain|antminer-s21-xp-immersion|Antminer S21 XP Immersion
+bitmain|antminer-s21-xp-plus-hyd|Antminer S21 XP+ Hyd
+bitmain|antminer-s23|Antminer S23
+bitmain|antminer-s23e-hyd-2u|Antminer S23e Hyd 2U
+bitmain|antminer-s23-hydro-3u|Antminer S23 Hydro 3U
+bitmain|antminer-s23-hydro|Antminer S23 Hydro
+bitmain|antminer-s23-immersion|Antminer S23 Immersion
+bitmain|antminer-s2|Antminer S2
+bitmain|antminer-s3|Antminer S3
+bitmain|antminer-s4|Antminer S4
+bitmain|antminer-s5|Antminer S5
+bitmain|antminer-s5-plus|Antminer S5+
+bitmain|antminer-s7|Antminer S7
+bitmain|antminer-s7-ln|Antminer S7-LN
+bitmain|antminer-s9|Antminer S9
+bitmain|antminer-s9-hydro|Antminer S9 Hydro
+bitmain|antminer-s9i|Antminer S9i
+bitmain|antminer-s9j|Antminer S9j
+bitmain|antminer-s9k|Antminer S9k
+bitmain|antminer-s9-se|Antminer S9 SE
+bitmain|antminer-t15|Antminer T15
+bitmain|antminer-t17|Antminer T17
+bitmain|antminer-t17e|Antminer T17e
+bitmain|antminer-t17-plus|Antminer T17+
+bitmain|antminer-t19|Antminer T19
+bitmain|antminer-t19-hydro|Antminer T19 Hydro
+bitmain|antminer-t19-pro-hyd|Antminer T19 Pro Hyd
+bitmain|antminer-t21|Antminer T21
+bitmain|antminer-t9|Antminer T9
+bitmain|antminer-t9-plus|Antminer T9+
+butterfly_labs|butterfly-labs-jalapeno|Butterfly Labs Jalapeno
+butterfly_labs|butterfly-labs-monarch|Butterfly Labs Monarch
+butterfly_labs|butterfly-labs-single-sc|Butterfly Labs Single SC
+canaan|avalon1-batch-1|Avalon1 Batch 1
+canaan|avalon1-batch-2|Avalon1 Batch 2
+canaan|avalon1-batch-3|Avalon1 Batch 3
+canaan|avalon2|Avalon2
+canaan|avalon3|Avalon3
+canaan|avalon4-avalon4-1|Avalon4 / Avalon4.1
+canaan|avalon6|Avalon6
+canaan|avalon-a1246|Avalon A1246
+canaan|avalon-a1266|Avalon A1266
+canaan|avalon-a1326|Avalon A1326
+canaan|avalon-a1346|Avalon A1346
+canaan|avalon-a1366|Avalon A1366
+canaan|avalon-a1366i|Avalon A1366I
+canaan|avalon-a1446|Avalon A1446
+canaan|avalon-a1466|Avalon A1466
+canaan|avalon-a1466i|Avalon A1466I
+canaan|avalon-a1566|Avalon A1566
+canaan|avalon-a1566ha-2u|Avalon A1566HA 2U
+canaan|avalon-a1566i|Avalon A1566I
+canaan|avalon-a15|Avalon A15
+canaan|avalon-a15-pro|Avalon A15 Pro
+canaan|avalon-a15xp|Avalon A15XP
+canaan|avalon-a16|Avalon A16
+canaan|avalon-a16xp|Avalon A16XP
+canaan|avalonminer-1026|AvalonMiner 1026
+canaan|avalonminer-1041|AvalonMiner 1041
+canaan|avalonminer-1047|AvalonMiner 1047
+canaan|avalonminer-1066|AvalonMiner 1066
+canaan|avalonminer-1066-pro|AvalonMiner 1066 Pro
+canaan|avalonminer-1126-pro|AvalonMiner 1126 Pro
+canaan|avalonminer-1146|AvalonMiner 1146
+canaan|avalonminer-1146-pro|AvalonMiner 1146 Pro
+canaan|avalonminer-1166|AvalonMiner 1166
+canaan|avalonminer-1166-pro|AvalonMiner 1166 Pro
+canaan|avalonminer-721|AvalonMiner 721
+canaan|avalonminer-741|AvalonMiner 741
+canaan|avalonminer-761|AvalonMiner 761
+canaan|avalonminer-821|AvalonMiner 821
+canaan|avalonminer-841|AvalonMiner 841
+canaan|avalonminer-851|AvalonMiner 851
+canaan|avalonminer-852|AvalonMiner 852
+canaan|avalonminer-910|AvalonMiner 910
+canaan|avalonminer-911|AvalonMiner 911
+canaan|avalonminer-920|AvalonMiner 920
+canaan|avalonminer-921|AvalonMiner 921
+canaan|avalon-mini-3|Avalon Mini 3
+canaan|avalon-nano-3|Avalon Nano 3
+canaan|avalon-nano-3s|Avalon Nano 3S
+canaan|avalon-q|Avalon Q
+ebang|ebang-ebit-e10d|Ebang Ebit E10D
+ebang|ebang-ebit-e10|Ebang Ebit E10
+ebang|ebang-ebit-e11|Ebang Ebit E11
+ebang|ebang-ebit-e11-plusplus|Ebang Ebit E11++
+ebang|ebang-ebit-e12|Ebang Ebit E12
+ebang|ebang-ebit-e12-plus|Ebang Ebit E12+
+ebang|ebang-ebit-e9-2|Ebang Ebit E9.2
+ebang|ebang-ebit-e9-3|Ebang Ebit E9.3
+ebang|ebang-ebit-e9i|Ebang Ebit E9i
+ebang|ebang-ebit-e9-plus|Ebang Ebit E9+
+halong|halong-mining-dragonmint-t1|Halong Mining DragonMint T1
+innosilicon|innosilicon-t2-terminator|Innosilicon T2 Terminator
+innosilicon|innosilicon-t2-turbo-25t|Innosilicon T2 Turbo 25T
+innosilicon|innosilicon-t2-turbo-26t|Innosilicon T2 Turbo 26T
+innosilicon|innosilicon-t2-turbo-29t-30t|Innosilicon T2 Turbo 29T/30T
+innosilicon|innosilicon-t2-turbo-hf-plus|Innosilicon T2 Turbo HF+
+innosilicon|innosilicon-t2-turbo-plus-32t|Innosilicon T2 Turbo+ 32T
+innosilicon|innosilicon-t3-39t|Innosilicon T3 39T
+innosilicon|innosilicon-t3-50t|Innosilicon T3 50T
+innosilicon|innosilicon-t3-plus-43t|Innosilicon T3+ 43T
+innosilicon|innosilicon-t3-plus-52t|Innosilicon T3+ 52T
+innosilicon|innosilicon-t3-plus-57t|Innosilicon T3+ 57T
+kncminer|kncminer-neptune|KnCMiner Neptune
+kncminer|kncminer-solar|KnCMiner Solar
+kncminer|kncminer-titan|KnCMiner Titan
+microbt|whatsminer-m10s|Whatsminer M10S
+microbt|whatsminer-m10|Whatsminer M10
+microbt|whatsminer-m1|Whatsminer M1
+microbt|whatsminer-m20s-plus|Whatsminer M20S+
+microbt|whatsminer-m20s|Whatsminer M20S
+microbt|whatsminer-m21s-plus|Whatsminer M21S+
+microbt|whatsminer-m21s|Whatsminer M21S
+microbt|whatsminer-m21|Whatsminer M21
+microbt|whatsminer-m30s-plusplus|Whatsminer M30S++
+microbt|whatsminer-m30s-plus|Whatsminer M30S+
+microbt|whatsminer-m30s|Whatsminer M30S
+microbt|whatsminer-m31s-plus|Whatsminer M31S+
+microbt|whatsminer-m31s|Whatsminer M31S
+microbt|whatsminer-m32s|Whatsminer M32S
+microbt|whatsminer-m32|Whatsminer M32
+microbt|whatsminer-m33s-plusplus|Whatsminer M33S++
+microbt|whatsminer-m33s|Whatsminer M33S
+microbt|whatsminer-m36s-plusplus|Whatsminer M36S++
+microbt|whatsminer-m36s-plus|Whatsminer M36S+
+microbt|whatsminer-m36s|Whatsminer M36S
+microbt|whatsminer-m3|Whatsminer M3
+microbt|whatsminer-m3x|Whatsminer M3X
+microbt|whatsminer-m50s-plusplus|Whatsminer M50S++
+microbt|whatsminer-m50s-plus|Whatsminer M50S+
+microbt|whatsminer-m50s|Whatsminer M50S
+microbt|whatsminer-m50|Whatsminer M50
+microbt|whatsminer-m53s-plusplus|Whatsminer M53S++
+microbt|whatsminer-m53s|Whatsminer M53S
+microbt|whatsminer-m53|Whatsminer M53
+microbt|whatsminer-m56s-plusplus|Whatsminer M56S++
+microbt|whatsminer-m56s-plus|Whatsminer M56S+
+microbt|whatsminer-m56s|Whatsminer M56S
+microbt|whatsminer-m56|Whatsminer M56
+microbt|whatsminer-m60s-plusplus|Whatsminer M60S++
+microbt|whatsminer-m60s-plus|Whatsminer M60S+
+microbt|whatsminer-m60s|Whatsminer M60S
+microbt|whatsminer-m60|Whatsminer M60
+microbt|whatsminer-m61s-plus|Whatsminer M61S+
+microbt|whatsminer-m61s|Whatsminer M61S
+microbt|whatsminer-m61|Whatsminer M61
+microbt|whatsminer-m63s-plusplus|Whatsminer M63S++
+microbt|whatsminer-m63s-plus|Whatsminer M63S+
+microbt|whatsminer-m63s|Whatsminer M63S
+microbt|whatsminer-m63|Whatsminer M63
+microbt|whatsminer-m64s-plus|Whatsminer M64S+
+microbt|whatsminer-m64|Whatsminer M64
+microbt|whatsminer-m65s-plus|Whatsminer M65S+
+microbt|whatsminer-m65s|Whatsminer M65S
+microbt|whatsminer-m66s-plusplus|Whatsminer M66S++
+microbt|whatsminer-m66s-plus|Whatsminer M66S+
+microbt|whatsminer-m66s|Whatsminer M66S
+microbt|whatsminer-m66|Whatsminer M66
+microbt|whatsminer-m6ds-plusplus|Whatsminer M6DS++
+microbt|whatsminer-m6ds-plus|Whatsminer M6DS+
+microbt|whatsminer-m70s-plus|Whatsminer M70S+
+microbt|whatsminer-m70s|Whatsminer M70S
+microbt|whatsminer-m70|Whatsminer M70
+microbt|whatsminer-m72s|Whatsminer M72S
+microbt|whatsminer-m72|Whatsminer M72
+microbt|whatsminer-m73s-plus|Whatsminer M73S+
+microbt|whatsminer-m73s|Whatsminer M73S
+microbt|whatsminer-m73|Whatsminer M73
+microbt|whatsminer-m76s-plus|Whatsminer M76S+
+microbt|whatsminer-m76s|Whatsminer M76S
+microbt|whatsminer-m76|Whatsminer M76
+microbt|whatsminer-m78s|Whatsminer M78S
+microbt|whatsminer-m78|Whatsminer M78
+microbt|whatsminer-m79s|Whatsminer M79S
+microbt|whatsminer-m79|Whatsminer M79
+microbt|whatsminer-m7ds|Whatsminer M7DS
+microbt|whatsminer-m7d|Whatsminer M7D
+spondoolies|spondoolies-tech-sp20-jackson|Spondoolies-Tech SP20 Jackson
+spondoolies|spondoolies-tech-sp31-yukon|Spondoolies-Tech SP31 Yukon
+spondoolies|spondoolies-tech-sp35-yukon|Spondoolies-Tech SP35 Yukon
+strongu|strongu-hornbill-h8-pro|StrongU Hornbill H8 Pro
+strongu|strongu-hornbill-h8|StrongU Hornbill H8
+strongu|strongu-stu-u1-plusplus|StrongU STU-U1++
+strongu|strongu-stu-u1-plus|StrongU STU-U1+
+strongu|strongu-stu-u1|StrongU STU-U1
+strongu|strongu-stu-u2|StrongU STU-U2
+strongu|strongu-stu-u6|StrongU STU-U6
+strongu|strongu-stu-u8-pro|StrongU STU-U8 Pro
+strongu|strongu-stu-u8|StrongU STU-U8
