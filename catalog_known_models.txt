@@ -9,6 +9,10 @@ bitaxe|bitaxe-supra-400|Bitaxe Supra 400
 bitaxe|bitaxe-turbo-touch|Bitaxe Turbo Touch
 bitaxe|bitaxe-ultra-200|Bitaxe Ultra 200
 bitaxe|nerdminerv2|NerdMinerV2
+bitaxe|nerdoctaxe|NerdOCTAxe
+bitaxe|nerdoctaxe-rev-3-1-hydro|NerdOCTAxe Rev 3.1 Hydro
+bitaxe|nerdoctaxe-rev-3-1|NerdOCTAxe Rev 3.1
+bitaxe|nerdqaxeplusplus-hydro|NerdQaxePlusPlus Hydro
 bitaxe|nerdqaxeplusplus|NerdQaxePlusPlus
 bitdeer|sealminer-a2-hyd|SealMiner A2 Hyd
 bitdeer|sealminer-a2-pro-air|SealMiner A2 Pro Air
@@ -117,11 +121,14 @@ canaan|avalon-a1366i|Avalon A1366I
 canaan|avalon-a1446|Avalon A1446
 canaan|avalon-a1466|Avalon A1466
 canaan|avalon-a1466i|Avalon A1466I
+canaan|avalon-a14xp|Avalon A14XP
 canaan|avalon-a1566|Avalon A1566
 canaan|avalon-a1566ha-2u|Avalon A1566HA 2U
 canaan|avalon-a1566i|Avalon A1566I
 canaan|avalon-a15|Avalon A15
 canaan|avalon-a15-pro|Avalon A15 Pro
+canaan|avalon-a15-pro-plus|Avalon A15 Pro+
+canaan|avalon-a15se|Avalon A15SE
 canaan|avalon-a15xp|Avalon A15XP
 canaan|avalon-a16|Avalon A16
 canaan|avalon-a16xp|Avalon A16XP
@@ -161,6 +168,7 @@ ebang|ebang-ebit-e9-3|Ebang Ebit E9.3
 ebang|ebang-ebit-e9i|Ebang Ebit E9i
 ebang|ebang-ebit-e9-plus|Ebang Ebit E9+
 halong|halong-mining-dragonmint-t1|Halong Mining DragonMint T1
+heatbit|heatbit-trio|Heatbit Trio
 innosilicon|innosilicon-t2-terminator|Innosilicon T2 Terminator
 innosilicon|innosilicon-t2-turbo-25t|Innosilicon T2 Turbo 25T
 innosilicon|innosilicon-t2-turbo-26t|Innosilicon T2 Turbo 26T
@@ -172,9 +180,12 @@ innosilicon|innosilicon-t3-50t|Innosilicon T3 50T
 innosilicon|innosilicon-t3-plus-43t|Innosilicon T3+ 43T
 innosilicon|innosilicon-t3-plus-52t|Innosilicon T3+ 52T
 innosilicon|innosilicon-t3-plus-57t|Innosilicon T3+ 57T
+jingleminer|jingle-miner-btc-hashcard|Jingle Miner BTC Hashcard
 kncminer|kncminer-neptune|KnCMiner Neptune
 kncminer|kncminer-solar|KnCMiner Solar
 kncminer|kncminer-titan|KnCMiner Titan
+luckyminer|lucky-miner-lv07-pro|Lucky Miner LV07 Pro
+luckyminer|lucky-miner-lv08-pro|Lucky Miner LV08 Pro
 microbt|whatsminer-m10s|Whatsminer M10S
 microbt|whatsminer-m10|Whatsminer M10
 microbt|whatsminer-m1|Whatsminer M1
@@ -246,6 +257,7 @@ microbt|whatsminer-m79s|Whatsminer M79S
 microbt|whatsminer-m79|Whatsminer M79
 microbt|whatsminer-m7ds|Whatsminer M7DS
 microbt|whatsminer-m7d|Whatsminer M7D
+proto|proto-rig|Proto Rig
 spondoolies|spondoolies-tech-sp20-jackson|Spondoolies-Tech SP20 Jackson
 spondoolies|spondoolies-tech-sp31-yukon|Spondoolies-Tech SP31 Yukon
 spondoolies|spondoolies-tech-sp35-yukon|Spondoolies-Tech SP35 Yukon
