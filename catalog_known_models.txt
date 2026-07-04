@@ -39,7 +39,6 @@ bitmain|antminer-s19a|Antminer S19a
 bitmain|antminer-s19al|Antminer S19al
 bitmain|antminer-s19|Antminer S19
 bitmain|antminer-s19a-pro|Antminer S19a Pro
-bitmain|antminer-s19-hydro-158-th-t19-variant|Antminer S19 Hydro (158 TH) [T19 variant]
 bitmain|antminer-s19-hydro|Antminer S19 Hydro
 bitmain|antminer-s19i|Antminer S19i
 bitmain|antminer-s19j|Antminer S19j
@@ -57,6 +56,7 @@ bitmain|antminer-s19-pro-plus-hyd|Antminer S19 Pro+ Hyd
 bitmain|antminer-s19-pro-plus-hydro|Antminer S19 Pro+ Hydro
 bitmain|antminer-s19-pro-plusplus|Antminer S19 Pro++
 bitmain|antminer-s19-xp|Antminer S19 XP
+bitmain|antminer-s19-xp-hyd-3u|Antminer S19 XP Hyd 3U
 bitmain|antminer-s19-xp-hydro|Antminer S19 XP Hydro
 bitmain|antminer-s19-xp-plus-hyd|Antminer S19 XP+ Hyd
 bitmain|antminer-s1|Antminer S1
