@@ -1,0 +1,51 @@
+antminer-s19e-xp-hyd|Antminer S19e XP Hyd.|2026-09-03|www.f2pool.com
+antminer-s19-xp-hydro-3u|Antminer S19 XP+ Hydro 3U|2026-09-06|www.cryptominerbros.com
+aura-duo-proto-x-auradine-chips-prototype|Aura Duo Proto X (Auradine chips, prototype)|2026-05-19|www.youtube.com
+avalon-miner-a1366i-128t-immersion-cooling|Avalon Miner A1366I-128T Immersion Cooling|2026-07-21|shop.canaan.io
+avalon-miner-a1446-127t-3310w|Avalon Miner A1446-127T 3310w|2026-07-21|shop.canaan.io
+avalon-miner-a15eha-400t|Avalon Miner A15eHA-400T|2026-06-25|shop.canaan.io
+avalon-miner-a15eha-425t|Avalon Miner A15eHA-425T|2026-07-27|shop.canaan.io
+bitair|Bitair|2026-09-03|www.asicminervalue.com
+bitaxe-gamma-800|Bitaxe Gamma 800|2026-09-13|bt-miners.com
+bitaxe-nerdqaxe-901|Bitaxe NerdQaxe++901|2026-09-03|bt-miners.com
+bitaxe-supra-hex-703|Bitaxe Supra Hex 703|2026-09-03|bt-miners.com
+bitdeer-sealminer-a2-pro-air|Bitdeer Sealminer A2 Pro (Air)|2026-07-21|hashrateindex.com
+bitforge-nano|BitForge Nano|2026-09-03|www.asicminervalue.com
+bluax|BluAx|2026-09-03|www.asicminervalue.com
+bolon-b11|Bolon B11|2026-09-03|hashrateindex.com
+braiins-bmm100|Braiins BMM100|2026-09-05|www.asicminervalue.com
+braiins-bmm101|Braiins BMM101|2026-09-03|www.asicminervalue.com
+catalog-missing-cheetah-f1|[CATALOG-MISSING] Cheetah F1|2026-06-22|hashrateindex.com
+catalog-missing-ipollo-b2|[CATALOG-MISSING] iPollo B2|2026-06-22|www.asicminervalue.com
+cheetah-f1|Cheetah F1|2026-09-03|hashrateindex.com
+digital-shovel-bluax|Digital Shovel BluAx|2026-09-03|www.asicminervalue.com
+dongaoxiong-b2|DongAoXiong B2|2026-09-03|www.f2pool.com
+fluminer-t3|Fluminer T3|2026-09-10|www.asicminervalue.com
+hammer-miner-bc01|Hammer Miner BC01|2026-09-21|hashrateindex.com
+hammer-miner-bc04|Hammer Miner BC04|2026-09-21|hashrateindex.com
+hammer-miner-bc08|Hammer Miner BC08|2026-09-18|www.asicminervalue.com
+hammer-miner-thor-p2|Hammer Miner Thor P2|2026-09-15|www.asicminervalue.com
+hammer-miner-thor-x1|Hammer Miner Thor X1|2026-09-21|hashrateindex.com
+heatbit-bitair|Heatbit Bitair|2026-09-14|www.asicminervalue.com
+jingle-miner-btc-solo-lite|Jingle Miner BTC Solo Lite|2026-09-03|www.asicminervalue.com
+jingle-miner-btc-solo-pro|Jingle Miner BTC Solo Pro|2026-09-03|www.asicminervalue.com
+jingle-miner-btc-solo-pro-rgb-edition|Jingle Miner BTC Solo Pro RGB Edition|2026-09-03|www.f2pool.com
+lucky-miner-lv06|Lucky Miner LV06|2026-09-03|www.cryptominerbros.com
+lucky-miner-lv07|Lucky Miner LV07|2026-09-03|www.asicminervalue.com
+lucky-miner-lv08|Lucky Miner LV08|2026-09-04|www.cryptominerbros.com
+magic-miner-40t|Magic Miner 40T|2026-09-18|www.asicminervalue.com
+magicminer-bg01|Magicminer BG01|2026-09-14|www.cryptominerbros.com
+magicminer-bg02|Magicminer BG02|2026-09-14|www.cryptominerbros.com
+microbt-whatsminer-m79s|MicroBT WhatsMiner M79S|2026-07-25|www.asicminervalue.com
+nerdminer-nerdqaxe-rev-7|NerdMiner NerdQaxe++ Rev 7|2026-09-14|www.cryptominerbros.com
+ofen-2-pro|Ofen 2 Pro|2026-09-03|www.asicminervalue.com
+teraflux-ai2500|Teraflux AI2500|2026-09-03|www.f2pool.com
+teraflux-at1500|Teraflux AT1500|2026-09-03|www.f2pool.com
+thor-p2|Thor P2|2026-09-04|bitcointalk.org
+whatsminer-m53s|WhatsMiner M53S+|2026-09-11|www.whatsminer.com
+whatsminer-m54s|WhatsMiner M54S++|2026-09-11|www.whatsminer.com
+whatsminer-m6as|WhatsMiner M6AS++|2026-09-08|support.whatsminer.com
+whatsminer-m6bs|WhatsMiner M6BS++|2026-09-08|support.whatsminer.com
+whatsminer-m7a|WhatsMiner M7A|2026-09-08|support.whatsminer.com
+whatsminer-m7b|WhatsMiner M7B|2026-09-08|support.whatsminer.com
+whatsminer-m7bs|WhatsMiner M7BS+|2026-09-08|support.whatsminer.com
