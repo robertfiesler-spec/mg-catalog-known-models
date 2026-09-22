@@ -1,19 +1,27 @@
 auradine|auradine-teraflux-ah3880|Auradine Teraflux AH3880
 auradine|auradine-teraflux-ai3680|Auradine Teraflux AI3680
 auradine|auradine-teraflux-at2880|Auradine Teraflux AT2880
+bitaxe|bitaxe-gamma-601|Bitaxe Gamma 601
 bitaxe|bitaxe-gamma-602|Bitaxe Gamma 602
 bitaxe|bitaxe-gamma-duo-650|Bitaxe Gamma Duo 650
+bitaxe|bitaxe-gamma-hex|Bitaxe Gamma Hex
+bitaxe|bitaxe-gamma-turbo|Bitaxe Gamma Turbo
 bitaxe|bitaxe-gt-801|Bitaxe GT 801
 bitaxe|bitaxe-hex-700|Bitaxe Hex 700
 bitaxe|bitaxe-supra-400|Bitaxe Supra 400
+bitaxe|bitaxe-supra-hex-701|Bitaxe Supra Hex 701
+bitaxe|bitaxe-touch|Bitaxe Touch
 bitaxe|bitaxe-turbo-touch|Bitaxe Turbo Touch
 bitaxe|bitaxe-ultra-200|Bitaxe Ultra 200
 bitaxe|nerdminerv2|NerdMinerV2
 bitaxe|nerdoctaxe|NerdOCTAxe
 bitaxe|nerdoctaxe-rev-3-1-hydro|NerdOCTAxe Rev 3.1 Hydro
 bitaxe|nerdoctaxe-rev-3-1|NerdOCTAxe Rev 3.1
+bitaxe|nerdqaxeplus-hydro|NerdQaxePlus Hydro
 bitaxe|nerdqaxeplusplus-hydro|NerdQaxePlusPlus Hydro
 bitaxe|nerdqaxeplusplus|NerdQaxePlusPlus
+bitaxe|nerdqaxeplusplus-rev-6-1|NerdQaxePlusPlus Rev 6.1
+bitaxe|nerdqx|NerdQX
 bitdeer|sealminer-a2-hyd|SealMiner A2 Hyd
 bitdeer|sealminer-a2-pro-air|SealMiner A2 Pro Air
 bitdeer|sealminer-a2-pro-hyd|SealMiner A2 Pro Hyd
@@ -79,6 +87,7 @@ bitmain|antminer-s23e-hyd-2u|Antminer S23e Hyd 2U
 bitmain|antminer-s23-hydro-3u|Antminer S23 Hydro 3U
 bitmain|antminer-s23-hydro|Antminer S23 Hydro
 bitmain|antminer-s23-immersion|Antminer S23 Immersion
+bitmain|antminer-s23-xp-hyd|Antminer S23 XP Hyd
 bitmain|antminer-s2|Antminer S2
 bitmain|antminer-s3|Antminer S3
 bitmain|antminer-s4|Antminer S4
@@ -255,6 +264,7 @@ microbt|whatsminer-m78s|Whatsminer M78S
 microbt|whatsminer-m78|Whatsminer M78
 microbt|whatsminer-m79s|Whatsminer M79S
 microbt|whatsminer-m79|Whatsminer M79
+microbt|whatsminer-m7as-plus|Whatsminer M7AS+
 microbt|whatsminer-m7ds|Whatsminer M7DS
 microbt|whatsminer-m7d|Whatsminer M7D
 proto|proto-rig|Proto Rig
