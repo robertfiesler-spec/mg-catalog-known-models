@@ -1,0 +1,217 @@
+stock_bitmain|FR-1.70(260108-S21 XP Hyd.)|2026-01-21|stable
+stock_bitmain|FR-1.96(251224-S21-Pro)|2026-01-04|stable
+stock_bitmain|FR-1.104(251202-S21-XP)|2025-12-30|stable
+stock_bitmain|FR-1.12(251009-S21)|2025-11-20|stable
+stock_bitmain|FR-1.27(251009-S19 XP+ Hyd.)|2025-11-19|stable
+stock_bitmain|FR-1.20(251113-T21)|2025-11-18|stable
+stock_bitmain|FR-1.23(251024-S21+ Hyd.)|2025-11-12|stable
+stock_bitmain|FR-1.38(251031-S21XP-Imm)|2025-11-12|stable
+stock_bitmain|FR-1.28(251010-S19k Pro)|2025-11-03|stable
+stock_bitmain|FR-1.15(250422-S21+)|2025-05-06|stable
+stock_bitmain|Antminer-S19e-XP-Hyd.-release-202503181544|2025-04-05|stable
+stock_bitmain|Antminer-S19-XP-merge-release-20250208020137|2025-03-11|stable
+stock_bitmain|Antminer-S19j-XP-merge-release-20250214022253|2025-02-27|stable
+stock_bitmain|Antminer-S21e-XP-Hyd.-release-202501061507|2025-01-16|stable
+stock_bitmain|Antminer-S19-XP-Hyd.-merge-release-20240924062054|2024-10-10|
+stock_bitmain|Antminer-S21Imm-AML-release-202408061155|2024-08-12|stable
+stock_bitmain|FR-1.1(250416-S21 Hyd.)|2024-06-25|stable
+stock_bitmain|Antminer-S19Pro-Hyd-release-202402021734|2024-02-28|stable
+stock_bitmain|Antminer-S19Pro-Hydro-factory-202206161349-transitional|2024-02-28|
+stock_bitmain|Antminer-S19Pro+-Hydro-release-202303081530|2023-03-30|stable
+stock_bitmain|Antminer-S19-Pro-merge-release-20221226124238|2022-12-29|stable
+stock_bitmain|Antminer-S19a-Pro-release-202212061831|2022-12-28|stable
+stock_bitmain|Antminer-S19a-release-202212061830|2022-12-28|stable
+stock_bitmain|Antminer-S19j-merge-release-20221226012642|2022-12-28|stable
+stock_bitmain|Antminer-S19j+-merge-release-20221226013227|2022-12-28|stable
+stock_bitmain|Antminer-S19-Hydro-release-202212170935|2022-12-21|stable
+stock_bitmain|Antminer-S19j-Pro-merge-release-20221226125147|2022-12-21|stable
+stock_bitmain|Antminer-T19-Hydro-release-202212121629|2022-12-21|stable
+stock_bitmain|ANTMINER-S19-Pro-release-202111161920|2022-12-19|
+stock_bitmain|ANTMINER-S19i-release-202104272304|2021-05-28|stable
+stock_bitmain|ANTMINER-S17+-user-OM-202006021031-sig_5968|2020-06-18|stable
+stock_bitmain|ANTMINER-S17+-user-OM-202004071411-sig_5755|2020-04-07|
+stock_bitmain|ANTMINER-S17Pro-user-MD-201905241708-sig|2019-05-29|stable
+stock_bitmain|ANTMINER-S17-user-MD-201905241706-sig|2019-05-29|stable
+stock_bitmain|FR-1.29(260819-S23 Hyd.).bmu||
+stock_bitmain|FR-1.31(260525-S21 XP+ Hyd.).bmu||
+stock_bitmain|FR-1.38(260817-U3S23H).bmu||
+stock_bitmain|FR-1.39(260318-S21-Pro+).bmu||
+stock_bitmain|FR-1.61||
+stock_bitmain|FR-1.6(260630-S21++).bmu||
+stock_bitmain|FR-1.79(260630-S21-Pro+).bmu||
+stock_bitmain|stock_s19j_pro||
+stock_bitmain|stock_s21_exp||stable
+stock_microbt|20251209.16|2026-03-04|stable
+stock_microbt|20220919.15|2023-02-19|stable
+stock_microbt|20260729.11||
+stock_microbt|Whatsminer-all-20260416.14.bin||
+stock_microbt|Whatsminer-all-20260908.12.bin||
+stock_auradine|FluxOS (current/unknown version)||stable
+stock_canaan|25061801|2025-06-18|stable
+stock_canaan|2025061101|2025-06-11|stable
+stock_canaan|A1466HS-A3198|2025-01-06|stable
+stock_canaan|A1566HS-A3197|2025-01-06|stable
+stock_canaan|A1346-A3200C|2024-10-28|stable
+stock_canaan|A1566I-A3197|2024-09-24|
+stock_canaan|A1566-A3197|2024-09-20|
+stock_canaan|A1446-A1466-A3198S|2024-08-27|
+stock_canaan|A1466I-A3198S|2024-08-27|
+stock_canaan|24071801_42c628d|2024-07-18|stable
+stock_canaan|A1346N-A3200C|2024-05-18|
+stock_canaan|A1366-A3198S|2023-10-11|stable
+stock_canaan|A1366I-A3198S-LC|2023-10-11|stable
+stock_canaan|26081801_25462b2_1d48138||
+stock_canaan|A1066-1056-A3205||stable
+stock_canaan|A1066Pro-A3203||stable
+stock_canaan|A1066Pro-A3204||
+stock_canaan|A1146Pro-A3203||stable
+stock_canaan|A1166Pro-A3202||stable
+stock_canaan|A1246-A3200LC||stable
+stock_canaan|A1246-A3201||
+stock_canaan|A1246-A3201-2hash||
+stock_canaan|A1246N-A3200||
+stock_canaan|A1346I-N-A3200C||
+stock_canaan|A1366I-A3200C||
+stock_canaan|A1466HSA1466HU_A14x-A3198S-Temp70_MPO5000_APP_24102511_08b0955_aeae7e2t.zip||
+stock_canaan|A1466I_A14xI-A3198S-LC_24061402_08b0955_841e057.zip||
+stock_canaan|A1566HD_A15xHY-A3197S-HY_25051201_25462b2_aa24cf1.zip||
+stock_canaan|A1566IA1566HUA1566HS_A15xI-A3197S-LC_25050901_25462b2_46bbe92.zip||
+stock_canaan|A15PROA15XPA15A15SE_A15x-K210-A3197S-Temp70_25112501_25462b2_40c74c6.zip||
+stock_canaan|A15PROA15XPA15A15SE_A15x-K230_release_OTA_2025081201_131780c.zip||
+stock_canaan|A15x-A3197S-Temp70_26081101_25462b2_cb30b75.aup||
+bixbit|2024-10-22-legacy||
+bixbit|2025-latest||stable
+bixbit|Prime||stable
+braiins_os|2026-05-07-0-e6eaa788-26.05-plus|2026-05-13|stable
+braiins_os|2026-04-14-0-912d084c-26.04-plus|2026-04-15|
+braiins_os|2026-02-13-0-db69f9bc-26.01-plus|2026-03-10|
+braiins_os|2025-11-21-0-eb658dcd-25.11-plus|2025-11-25|
+braiins_os|2025-08-06-0-3881c51d-25.07-plus|2025-08-11|
+braiins_os|2025-06-25-0-45f356ea-25.05.1-plus|2025-06-30|
+braiins_os|2025-06-03-0-d04a0611-25.05-plus|2025-06-09|
+braiins_os|2025-04-07-0-424f9a7f-25.03-plus|2025-04-09|
+braiins_os|2025-02-21-0-e05df053-25.01-plus|2025-02-26|
+braiins_os|2024-12-03-0-f4c282cd-24.09.1-plus|2024-12-05|
+braiins_os|2024-10-17-0-75912fc7-24.09-plus|2024-10-22|
+braiins_os|2024-09-12-0-89ae7f26-24.08.1-plus|2024-09-13|
+braiins_os|2024-09-12-0-4821d892-24.06.2-plus|2024-09-12|
+braiins_os|2024-09-12-0-9dbf0134-24.04.3-plus|2024-07-04|
+braiins_os|2024-05-21-0-d5fa91c4-24.04.1-plus|2024-05-27|
+braiins_os|2024-05-06-0-fb624381-24.04-plus|2024-05-09|
+braiins_os|2024-04-02-0-0de0f2f0-24.03.1-plus|2024-04-02|
+braiins_os|2024-03-26-0-5aa91fcb-24.03-plus|2024-03-27|
+braiins_os|2024-03-08-0-0ee56121-24.02.1-plus|2024-03-08|
+braiins_os|2024-02-27-0-b218886f-24.02-plus|2024-03-05|
+braiins_os|2024-01-15-0-e8253ec1-23.12.1-plus|2024-01-15|
+braiins_os|2023-12-15-0-f43dca21-23.12-plus|2023-12-15|
+braiins_os|2023-11-20-0-b982cd98-23.10.1-plus|2023-11-20|
+braiins_os|2023-11-02-0-fd0c1e56-23.10-plus|2023-11-02|
+braiins_os|2023-10-20-1-974d122b-23.09.2-plus|2023-10-20|
+braiins_os|2023-09-26-0-a5e4fbd8-23.09.1-plus|2023-09-26|
+braiins_os|2023-09-07-0-022c6ed2-23.09-plus|2023-09-07|
+braiins_os|2023-08-08-0-47100d59-23.08-plus|2023-08-08|
+braiins_os|2023-06-21-0-e6243ce9-23.03.3-plus|2023-06-21|
+braiins_os|2023-05-29-0-1daef48b-23.03.2-plus|2023-05-29|
+braiins_os|2023-05-04-0-9b223345-23.03.1-plus|2023-05-04|
+braiins_os|2023-04-20-0-0ce150e9-23.03-plus|2023-04-20|
+braiins_os|2023-03-05-0-8cbe158f-23.02-plus|2023-03-05|
+braiins_os|2023-01-22-0-d0ed01e3-23.01-plus|2023-01-22|
+braiins_os|2022-09-27-0-26ba61b9-22.08.1-plus|2022-09-27|
+braiins_os|2022-09-13-0-11012d53-22.08-plus|2022-09-13|
+braiins_os|2022-06-20-0-288861e4-22.05-plus|2022-06-20|
+braiins_os|2022-04-29-0-5eb2c5fe-22.02.4-plus|2022-04-29|
+braiins_os|2022-04-20-0-d7a7bf66-22.02.3-plus|2022-04-20|
+braiins_os|2022-03-21-0-a9132f8e-22.02.2-plus|2022-03-21|
+braiins_os|26.05||
+braiins_os|26.05.1||
+braiins_os|26.05.1 (2026-05-20)||
+braiins_os|26.05.1-plus||
+braiins_os|26.06||
+braiins_os|26.07||
+braiins_os|26.08||
+braiins_os|26.08.1||
+braiins_os|26.09||
+braiins_os|bos_24_09||stable
+braiins_os|v26.05||
+vnish|1.2.5||
+vnish|1.2.6-hf4||
+vnish|1.2.6-rc5||
+vnish|1.2.6-stable||
+vnish|1.2.7||stable
+vnish|1.3.3 (stable)||
+vnish|1.3.4||
+vnish|1.3.4-Stable||
+vnish|1.3.5||
+vnish|Build date 2026-06-15||
+luxos|2026-05-12|2026-05-12|stable
+luxos|2026-05-08|2026-05-08|
+luxos|2026-05-01|2026-05-01|
+luxos|2026-04-03|2026-04-03|
+luxos|2026-03-30|2026-03-30|
+luxos|2026-03-02|2026-03-02|
+luxos|2026-02-11|2026-02-11|
+luxos|2026-01-30|2026-01-30|
+luxos|2025-12-12|2025-12-12|
+luxos|2025-11-10|2025-11-10|
+luxos|2025-10-15|2025-10-15|
+luxos|2025-09-17|2025-09-17|
+luxos|2025-09-08|2025-09-08|
+luxos|2025-08-08|2025-08-08|
+luxos|2025-07-10|2025-07-10|
+luxos|2025-06-26|2025-06-26|
+luxos|2025-05-17|2025-05-17|
+luxos|2025-05-14|2025-05-14|
+luxos|2025-04-08|2025-04-08|
+luxos|2025-03-06|2025-03-06|
+luxos|2025-02-17|2025-02-17|
+luxos|2025-01-29|2025-01-29|
+luxos|2024-12-26|2024-12-26|
+luxos|2024-01-13|2024-01-13|
+luxos|2026-06-02||
+luxos|2026-07-03||
+luxos|2026-07-31 changelog (version not displayed)||
+luxos|2026-08-06 release #11 of 2026 (version not displayed)||
+luxos|2026-08-11 (version number not displayed)||
+luxos|2026-09-21 (version number not displayed)||
+luxos|changelog 2026-04-03||
+luxos|changelog 2026-05-01||
+luxos|changelog 2026-05-08||
+luxos|changelog 2026-05-12||
+luxos|(version not stated)||
+epic|v1.18.2|2026-04-15|stable
+epic|v1.16.4|2026-03-13|
+epic|v1.14.0|2026-02-23|
+epic|v1.12.2|2026-01-26|
+epic|v1.10.1|2025-12-17|
+epic|v1.8.1|2025-10-22|
+epic|v1.6.1|2025-07-29|
+epic|v1.0.3|2025-07-28|stable
+epic|v0.205.8|2025-07-09|
+epic|v1.4.6|2025-05-21|
+epic|v1.0.4|2025-02-24|
+epic|v0.100.3|2025-01-20|
+epic|v0.26.0|2024-03-13|stable
+epic|v0.22.5|2024-01-03|
+epic|v0.19.3|2023-10-17|
+epic|v0.23.2|2023-09-21|
+epic|v0.18.4|2023-05-30|
+auradine_native|auradine_latest||stable
+hiveon|1.05@250410-core_1.6.0.40|2025-04-10|stable
+hiveon|1.04@240926-core_1.6.0.33|2024-09-26|
+hiveon|1.03@240419-core_1.6.0.22|2024-04-19|
+hiveon|1.02@230912-core_1.5.0.9|2023-09-12|
+hiveon|2.04@230310-(v1.3.6)-BETA|2023-03-10|stable
+hiveon|1.02@230301-core_1.4.6|2023-03-01|
+hiveon|1.01@221227-core_1.3.9|2022-12-27|
+hiveon|1.01@221026-core_1.3.9|2022-10-26|
+hiveon|1.01@221004-core_1.3.8|2022-10-04|
+hiveon|2.04@220720-(v1.3.1)|2022-07-20|
+hiveon|2.04@220528-(v1.2.6)|2022-05-28|
+hiveon|1.03@210305-BETA|2021-03-05|stable
+hiveon|2.00-200613|2020-06-13|
+hiveon|2.00-200608|2020-06-08|
+hiveon|1.02@191120|2019-11-20|
+other|1.0.0||
+other|beta20260709||
+other|closed beta (no version); example shows VNish 1.2.6 detected||
+other|v1.0.0||

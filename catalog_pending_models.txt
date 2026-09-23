@@ -1,5 +1,5 @@
 antminer-s19e-xp-hyd|Antminer S19e XP Hyd.|2026-09-03|www.f2pool.com
-antminer-s19-xp-hydro-3u|Antminer S19 XP+ Hydro 3U|2026-09-06|www.cryptominerbros.com
+antminer-s19-xp-plus-hydro-3u|Antminer S19 XP+ Hydro 3U|2026-09-06|www.cryptominerbros.com
 aura-duo-proto-x-auradine-chips-prototype|Aura Duo Proto X (Auradine chips, prototype)|2026-05-19|www.youtube.com
 avalon-miner-a1366i-128t-immersion-cooling|Avalon Miner A1366I-128T Immersion Cooling|2026-07-21|shop.canaan.io
 avalon-miner-a1446-127t-3310w|Avalon Miner A1446-127T 3310w|2026-07-21|shop.canaan.io
@@ -7,7 +7,7 @@ avalon-miner-a15eha-400t|Avalon Miner A15eHA-400T|2026-06-25|shop.canaan.io
 avalon-miner-a15eha-425t|Avalon Miner A15eHA-425T|2026-07-27|shop.canaan.io
 bitair|Bitair|2026-09-03|www.asicminervalue.com
 bitaxe-gamma-800|Bitaxe Gamma 800|2026-09-13|bt-miners.com
-bitaxe-nerdqaxe-901|Bitaxe NerdQaxe++901|2026-09-03|bt-miners.com
+bitaxe-nerdqaxe-plus-plus901|Bitaxe NerdQaxe++901|2026-09-03|bt-miners.com
 bitaxe-supra-hex-703|Bitaxe Supra Hex 703|2026-09-03|bt-miners.com
 bitdeer-sealminer-a2-pro-air|Bitdeer Sealminer A2 Pro (Air)|2026-07-21|hashrateindex.com
 bitforge-nano|BitForge Nano|2026-09-03|www.asicminervalue.com
@@ -37,15 +37,18 @@ magic-miner-40t|Magic Miner 40T|2026-09-18|www.asicminervalue.com
 magicminer-bg01|Magicminer BG01|2026-09-14|www.cryptominerbros.com
 magicminer-bg02|Magicminer BG02|2026-09-14|www.cryptominerbros.com
 microbt-whatsminer-m79s|MicroBT WhatsMiner M79S|2026-07-25|www.asicminervalue.com
-nerdminer-nerdqaxe-rev-7|NerdMiner NerdQaxe++ Rev 7|2026-09-14|www.cryptominerbros.com
+nerdminer-nerdqaxe-plus-plus-rev-7|NerdMiner NerdQaxe++ Rev 7|2026-09-14|www.cryptominerbros.com
 ofen-2-pro|Ofen 2 Pro|2026-09-03|www.asicminervalue.com
 teraflux-ai2500|Teraflux AI2500|2026-09-03|www.f2pool.com
 teraflux-at1500|Teraflux AT1500|2026-09-03|www.f2pool.com
 thor-p2|Thor P2|2026-09-04|bitcointalk.org
-whatsminer-m53s|WhatsMiner M53S+|2026-09-11|www.whatsminer.com
-whatsminer-m54s|WhatsMiner M54S++|2026-09-11|www.whatsminer.com
-whatsminer-m6as|WhatsMiner M6AS++|2026-09-08|support.whatsminer.com
-whatsminer-m6bs|WhatsMiner M6BS++|2026-09-08|support.whatsminer.com
+whatsminer-m53s-plus|WhatsMiner M53S+|2026-09-11|www.whatsminer.com
+whatsminer-m54s-plus-plus|WhatsMiner M54S++|2026-09-11|www.whatsminer.com
+whatsminer-m6as-plus|WhatsMiner M6AS+|2026-09-23|aws-microbt-com-bucket.s3.us-west-2.amazonaws.com
+whatsminer-m6as-plus-plus|WhatsMiner M6AS++|2026-09-08|support.whatsminer.com
+whatsminer-m6bs-plus|WhatsMiner M6BS+|2026-09-23|aws-microbt-com-bucket.s3.us-west-2.amazonaws.com
+whatsminer-m6bs-plus-plus|WhatsMiner M6BS++|2026-09-08|support.whatsminer.com
 whatsminer-m7a|WhatsMiner M7A|2026-09-08|support.whatsminer.com
 whatsminer-m7b|WhatsMiner M7B|2026-09-08|support.whatsminer.com
-whatsminer-m7bs|WhatsMiner M7BS+|2026-09-08|support.whatsminer.com
+whatsminer-m7bs|WhatsMiner M7BS|2026-09-23|aws-microbt-com-bucket.s3.us-west-2.amazonaws.com
+whatsminer-m7bs-plus|WhatsMiner M7BS+|2026-09-08|support.whatsminer.com
