@@ -21,6 +21,7 @@ cheetah-f1|Cheetah F1|2026-09-03|hashrateindex.com
 digital-shovel-bluax|Digital Shovel BluAx|2026-09-03|www.asicminervalue.com
 dongaoxiong-b2|DongAoXiong B2|2026-09-03|www.f2pool.com
 fluminer-t3|Fluminer T3|2026-09-10|www.asicminervalue.com
+futurebit-hashfly|FutureBit HashFly|2026-09-23|bitcointalk.org
 hammer-miner-bc01|Hammer Miner BC01|2026-09-21|hashrateindex.com
 hammer-miner-bc04|Hammer Miner BC04|2026-09-21|hashrateindex.com
 hammer-miner-bc08|Hammer Miner BC08|2026-09-18|www.asicminervalue.com

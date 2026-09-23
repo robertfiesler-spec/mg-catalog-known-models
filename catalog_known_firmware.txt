@@ -195,6 +195,7 @@ epic|v0.22.5|2024-01-03|
 epic|v0.19.3|2023-10-17|
 epic|v0.23.2|2023-09-21|
 epic|v0.18.4|2023-05-30|
+epic|V1.24.0||
 auradine_native|auradine_latest||stable
 hiveon|1.05@250410-core_1.6.0.40|2025-04-10|stable
 hiveon|1.04@240926-core_1.6.0.33|2024-09-26|
