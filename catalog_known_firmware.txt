@@ -79,6 +79,7 @@ stock_canaan|A1566IA1566HUA1566HS_A15xI-A3197S-LC_25050901_25462b2_46bbe92.zip||
 stock_canaan|A15PROA15XPA15A15SE_A15x-K210-A3197S-Temp70_25112501_25462b2_40c74c6.zip||
 stock_canaan|A15PROA15XPA15A15SE_A15x-K230_release_OTA_2025081201_131780c.zip||
 stock_canaan|A15x-A3197S-Temp70_26081101_25462b2_cb30b75.aup||
+stock_canaan|A15x-A3197S-Temp70_26091700_25462b2_f2d507e||
 bixbit|2024-10-22-legacy||
 bixbit|2025-latest||stable
 bixbit|Prime||stable
