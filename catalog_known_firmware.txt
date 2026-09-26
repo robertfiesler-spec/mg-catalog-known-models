@@ -132,6 +132,7 @@ braiins_os|26.07||
 braiins_os|26.08||
 braiins_os|26.08.1||
 braiins_os|26.09||
+braiins_os|26.09.1 / 2026-09-23-0-d6cb014c-26.09.1-plus||
 braiins_os|bos_24_09||stable
 braiins_os|v26.05||
 vnish|1.2.5||
