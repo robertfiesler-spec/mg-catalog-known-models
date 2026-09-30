@@ -144,6 +144,7 @@ vnish|1.3.3 (stable)||
 vnish|1.3.4||
 vnish|1.3.4-Stable||
 vnish|1.3.5||
+vnish|1.3.6-stable (2026-09-21)||
 vnish|Build date 2026-06-15||
 luxos|2026-05-12|2026-05-12|stable
 luxos|2026-05-08|2026-05-08|
@@ -215,6 +216,7 @@ hiveon|2.00-200613|2020-06-13|
 hiveon|2.00-200608|2020-06-08|
 hiveon|1.02@191120|2019-11-20|
 other|1.0.0||
+other|1.30 (2026-09-25)||
 other|beta20260709||
 other|closed beta (no version); example shows VNish 1.2.6 detected||
 other|v0.3.0 (dcentaxe-hammer-bc01-0.3.0-factory.bin; dcentaxe-hammer-bc01-pro-0.3.0-factory.bin; dcentaxe-hammer-bc02-0.3.0-factory.bin; dcentaxe-hammer-bc04-0.3.0-factory.bin)||
