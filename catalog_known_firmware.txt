@@ -221,3 +221,7 @@ other|beta20260709||
 other|closed beta (no version); example shows VNish 1.2.6 detected||
 other|v0.3.0 (dcentaxe-hammer-bc01-0.3.0-factory.bin; dcentaxe-hammer-bc01-pro-0.3.0-factory.bin; dcentaxe-hammer-bc02-0.3.0-factory.bin; dcentaxe-hammer-bc04-0.3.0-factory.bin)||
 other|v1.0.0||
+other|v1.0.1 (2026-07)||
+other|v1.0.2-20260806 (2026-08)||
+other|V2.0.3-20260625 (2026-06)||
+other|V3.0.2-20260802 (2026-08)||

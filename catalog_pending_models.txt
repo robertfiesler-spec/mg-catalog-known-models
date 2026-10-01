@@ -39,8 +39,9 @@ magicminer-bg01|Magicminer BG01|2026-09-14|www.cryptominerbros.com
 magicminer-bg02|Magicminer BG02|2026-09-14|www.cryptominerbros.com
 microbt-whatsminer-m79s|MicroBT WhatsMiner M79S|2026-07-25|www.asicminervalue.com
 nerdminer-nerdqaxe-plus-plus-rev-7|NerdMiner NerdQaxe++ Rev 7|2026-09-14|www.cryptominerbros.com
+nmminer-nm-tv-154-retailer-listed-as-bitaxe-nerdminer-tv|NMMiner NM-TV-154 (retailer-listed as Bitaxe NerdMiner TV)|2026-10-01|bt-miners.com
 ofen-2-pro|Ofen 2 Pro|2026-09-03|www.asicminervalue.com
-teraflux-ai2500|Teraflux AI2500|2026-09-03|www.f2pool.com
+teraflux-ai2500|Teraflux AI2500|2026-10-01|auradine.com
 teraflux-at1500|Teraflux AT1500|2026-09-03|www.f2pool.com
 thor-p2|Thor P2|2026-09-04|bitcointalk.org
 whatsminer-m53s-plus|WhatsMiner M53S+|2026-09-11|www.whatsminer.com
