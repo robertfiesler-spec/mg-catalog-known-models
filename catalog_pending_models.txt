@@ -6,7 +6,9 @@ avalon-miner-a1446-127t-3310w|Avalon Miner A1446-127T 3310w|2026-07-21|shop.cana
 avalon-miner-a15eha-400t|Avalon Miner A15eHA-400T|2026-06-25|shop.canaan.io
 avalon-miner-a15eha-425t|Avalon Miner A15eHA-425T|2026-07-27|shop.canaan.io
 bitair|Bitair|2026-09-03|www.asicminervalue.com
+bitaxe-copperzilla|Bitaxe Copperzilla|2026-10-05|bitaxe.de
 bitaxe-gamma-800|Bitaxe Gamma 800|2026-09-13|bt-miners.com
+bitaxe-naja-duo-1201|Bitaxe Naja Duo 1201|2026-10-05|www.solosatoshi.com
 bitaxe-nerdqaxe-plus-plus901|Bitaxe NerdQaxe++901|2026-09-03|bt-miners.com
 bitaxe-supra-hex-703|Bitaxe Supra Hex 703|2026-09-03|bt-miners.com
 bitdeer-sealminer-a2-pro-air|Bitdeer Sealminer A2 Pro (Air)|2026-07-21|hashrateindex.com
@@ -38,7 +40,10 @@ magic-miner-40t|Magic Miner 40T|2026-09-18|www.asicminervalue.com
 magicminer-bg01|Magicminer BG01|2026-09-14|www.cryptominerbros.com
 magicminer-bg02|Magicminer BG02|2026-09-14|www.cryptominerbros.com
 microbt-whatsminer-m79s|MicroBT WhatsMiner M79S|2026-07-25|www.asicminervalue.com
+nerdaxe-gaia|Nerdaxe Gaia|2026-10-05|www.youtube.com
+nerdaxe-gaia-pro|NerdAxe Gaia Pro|2026-10-05|nerdminerstore.com
 nerdminer-nerdqaxe-plus-plus-rev-7|NerdMiner NerdQaxe++ Rev 7|2026-09-14|www.cryptominerbros.com
+nerdoctaxe-pro-rev-3-1|NerdOctaxe PRO Rev 3.1|2026-10-05|bitronics.store
 nmminer-nm-tv-154-retailer-listed-as-bitaxe-nerdminer-tv|NMMiner NM-TV-154 (retailer-listed as Bitaxe NerdMiner TV)|2026-10-01|bt-miners.com
 ofen-2-pro|Ofen 2 Pro|2026-09-03|www.asicminervalue.com
 teraflux-ai2500|Teraflux AI2500|2026-10-01|auradine.com
