@@ -177,6 +177,7 @@ luxos|2026-07-31 changelog (version not displayed)||
 luxos|2026-08-06 release #11 of 2026 (version not displayed)||
 luxos|2026-08-11 (version number not displayed)||
 luxos|2026-09-21 (version number not displayed)||
+luxos|2026-09-30 changelog entry (version number not displayed)||
 luxos|changelog 2026-04-03||
 luxos|changelog 2026-05-01||
 luxos|changelog 2026-05-08||
