@@ -47,6 +47,7 @@ nerdaxe-gaia|Nerdaxe Gaia|2026-10-05|www.youtube.com
 nerdaxe-gaia-pro|NerdAxe Gaia Pro|2026-10-05|nerdminerstore.com
 nerdminer-nerdqaxe-plus-plus-rev-7|NerdMiner NerdQaxe++ Rev 7|2026-09-14|www.cryptominerbros.com
 nerdoctaxe-pro-rev-3-1|NerdOctaxe PRO Rev 3.1|2026-10-05|bitronics.store
+nexus-miner-s1|Nexus Miner S1|2026-10-09|nexusminer.org
 nmminer-nm-tv-154-retailer-listed-as-bitaxe-nerdminer-tv|NMMiner NM-TV-154 (retailer-listed as Bitaxe NerdMiner TV)|2026-10-01|bt-miners.com
 ofen-2-pro|Ofen 2 Pro|2026-09-03|www.asicminervalue.com
 teraflux-ai2500|Teraflux AI2500|2026-10-01|auradine.com
