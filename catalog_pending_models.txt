@@ -13,6 +13,7 @@ bitaxe-copperzilla|Bitaxe Copperzilla|2026-10-05|bitaxe.de
 bitaxe-gamma-800|Bitaxe Gamma 800|2026-09-13|bt-miners.com
 bitaxe-naja-duo-1201|Bitaxe Naja Duo 1201|2026-10-05|www.solosatoshi.com
 bitaxe-nerdqaxe-plus-plus901|Bitaxe NerdQaxe++901|2026-09-03|bt-miners.com
+bitaxe-supra-hex-702|Bitaxe Supra Hex 702|2026-10-10|bitaxe.de
 bitaxe-supra-hex-703|Bitaxe Supra Hex 703|2026-09-03|bt-miners.com
 bitdeer-sealminer-a2-pro-air|Bitdeer Sealminer A2 Pro (Air)|2026-07-21|hashrateindex.com
 bitforge-nano|BitForge Nano|2026-09-03|www.asicminervalue.com
