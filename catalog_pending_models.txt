@@ -37,6 +37,7 @@ heatbit-bitair|Heatbit Bitair|2026-09-14|www.asicminervalue.com
 jingle-miner-btc-solo-lite|Jingle Miner BTC Solo Lite|2026-09-03|www.asicminervalue.com
 jingle-miner-btc-solo-pro|Jingle Miner BTC Solo Pro|2026-09-03|www.asicminervalue.com
 jingle-miner-btc-solo-pro-rgb-edition|Jingle Miner BTC Solo Pro RGB Edition|2026-09-03|www.f2pool.com
+k3-miner-maker-unknown-rumor|K3 miner (maker unknown; rumor)|2026-10-12|bitcointalk.org
 lucky-miner-lv06|Lucky Miner LV06|2026-09-03|www.cryptominerbros.com
 lucky-miner-lv07|Lucky Miner LV07|2026-09-03|www.asicminervalue.com
 lucky-miner-lv08|Lucky Miner LV08|2026-09-04|www.cryptominerbros.com
