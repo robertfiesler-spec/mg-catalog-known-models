@@ -1,4 +1,4 @@
-antminer-s19e-xp-hyd|Antminer S19e XP Hyd.|2026-09-03|www.f2pool.com
+antminer-s19e-xp-hyd|Antminer S19e XP Hyd.|2026-10-18|shop.bitmain.com
 antminer-s19-xp-plus-hydro-3u|Antminer S19 XP+ Hydro 3U|2026-09-06|www.cryptominerbros.com
 asicid-idminer-1|ASICID IDMINER 1|2026-10-06|www.globenewswire.com
 asicid-idminer-2|ASICID IDMINER 2|2026-10-06|www.globenewswire.com
@@ -49,6 +49,7 @@ nerdaxe-gaia|Nerdaxe Gaia|2026-10-05|www.youtube.com
 nerdaxe-gaia-pro|NerdAxe Gaia Pro|2026-10-05|nerdminerstore.com
 nerdminer-nerdqaxe-plus-plus-rev-7|NerdMiner NerdQaxe++ Rev 7|2026-09-14|www.cryptominerbros.com
 nerdoctaxe-pro-rev-3-1|NerdOctaxe PRO Rev 3.1|2026-10-05|bitronics.store
+nerdqaxe-plus|NerdQAxe+|2026-10-18|github.com
 nexus-miner-s1|Nexus Miner S1|2026-10-09|nexusminer.org
 nmminer-nm-tv-154-retailer-listed-as-bitaxe-nerdminer-tv|NMMiner NM-TV-154 (retailer-listed as Bitaxe NerdMiner TV)|2026-10-01|bt-miners.com
 ofen-2-pro|Ofen 2 Pro|2026-09-03|www.asicminervalue.com
@@ -60,8 +61,9 @@ whatsminer-m54s-plus-plus|WhatsMiner M54S++|2026-09-11|www.whatsminer.com
 whatsminer-m6as-plus|WhatsMiner M6AS+|2026-09-23|aws-microbt-com-bucket.s3.us-west-2.amazonaws.com
 whatsminer-m6as-plus-plus|WhatsMiner M6AS++|2026-09-08|support.whatsminer.com
 whatsminer-m6bs-plus|WhatsMiner M6BS+|2026-09-23|aws-microbt-com-bucket.s3.us-west-2.amazonaws.com
-whatsminer-m6bs-plus-plus|WhatsMiner M6BS++|2026-09-08|support.whatsminer.com
-whatsminer-m7a|WhatsMiner M7A|2026-09-08|support.whatsminer.com
-whatsminer-m7b|WhatsMiner M7B|2026-09-08|support.whatsminer.com
+whatsminer-m6bs-plus-plus|WhatsMiner M6BS++|2026-10-18|aws-microbt-com-bucket.s3.us-west-2.amazonaws.com
+whatsminer-m7a|WhatsMiner M7A|2026-10-18|aws-microbt-com-bucket.s3.us-west-2.amazonaws.com
+whatsminer-m7as|WhatsMiner M7AS|2026-10-18|aws-microbt-com-bucket.s3.us-west-2.amazonaws.com
+whatsminer-m7b|WhatsMiner M7B|2026-10-18|aws-microbt-com-bucket.s3.us-west-2.amazonaws.com
 whatsminer-m7bs|WhatsMiner M7BS|2026-09-23|aws-microbt-com-bucket.s3.us-west-2.amazonaws.com
-whatsminer-m7bs-plus|WhatsMiner M7BS+|2026-09-08|support.whatsminer.com
+whatsminer-m7bs-plus|WhatsMiner M7BS+|2026-10-18|aws-microbt-com-bucket.s3.us-west-2.amazonaws.com
