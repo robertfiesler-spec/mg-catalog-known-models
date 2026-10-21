@@ -51,6 +51,7 @@ nerdminer-nerdqaxe-plus-plus-rev-7|NerdMiner NerdQaxe++ Rev 7|2026-09-14|www.cry
 nerdoctaxe-pro-rev-3-1|NerdOctaxe PRO Rev 3.1|2026-10-05|bitronics.store
 nerdqaxe-plus|NerdQAxe+|2026-10-18|github.com
 nexus-miner-s1|Nexus Miner S1|2026-10-09|nexusminer.org
+nexus-s1-4hydro|Nexus S1 4Hydro|2026-10-21|www.reddit.com
 nmminer-nm-tv-154-retailer-listed-as-bitaxe-nerdminer-tv|NMMiner NM-TV-154 (retailer-listed as Bitaxe NerdMiner TV)|2026-10-01|bt-miners.com
 ofen-2-pro|Ofen 2 Pro|2026-09-03|www.asicminervalue.com
 teraflux-ai2500|Teraflux AI2500|2026-10-01|auradine.com
