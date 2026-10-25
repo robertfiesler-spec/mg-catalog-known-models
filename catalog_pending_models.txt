@@ -34,6 +34,7 @@ hammer-miner-bc08|Hammer Miner BC08|2026-09-18|www.asicminervalue.com
 hammer-miner-thor-p2|Hammer Miner Thor P2|2026-09-15|www.asicminervalue.com
 hammer-miner-thor-x1|Hammer Miner Thor X1|2026-09-21|hashrateindex.com
 heatbit-bitair|Heatbit Bitair|2026-09-14|www.asicminervalue.com
+heatbit-bitwater|Heatbit Bitwater|2026-10-25|heatbit.com
 jingle-miner-btc-solo-lite|Jingle Miner BTC Solo Lite|2026-09-03|www.asicminervalue.com
 jingle-miner-btc-solo-pro|Jingle Miner BTC Solo Pro|2026-09-03|www.asicminervalue.com
 jingle-miner-btc-solo-pro-rgb-edition|Jingle Miner BTC Solo Pro RGB Edition|2026-09-03|www.f2pool.com
@@ -45,6 +46,8 @@ magic-miner-40t|Magic Miner 40T|2026-09-18|www.asicminervalue.com
 magicminer-bg01|Magicminer BG01|2026-09-14|www.cryptominerbros.com
 magicminer-bg02|Magicminer BG02|2026-09-14|www.cryptominerbros.com
 microbt-whatsminer-m79s|MicroBT WhatsMiner M79S|2026-07-25|www.asicminervalue.com
+microbt-whatsminer-m7as-hydro|MicroBT WhatsMiner M7AS Hydro|2026-10-25|www.reddit.com
+microbt-whatsminer-m7as-plus-plus-hydro|MicroBT WhatsMiner M7AS++ Hydro|2026-10-25|www.reddit.com
 nerdaxe-gaia|Nerdaxe Gaia|2026-10-05|www.youtube.com
 nerdaxe-gaia-pro|NerdAxe Gaia Pro|2026-10-05|nerdminerstore.com
 nerdminer-nerdqaxe-plus-plus-rev-7|NerdMiner NerdQaxe++ Rev 7|2026-09-14|www.cryptominerbros.com
