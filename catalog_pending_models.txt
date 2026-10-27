@@ -57,6 +57,8 @@ nexus-miner-s1|Nexus Miner S1|2026-10-09|nexusminer.org
 nexus-s1-4hydro|Nexus S1 4Hydro|2026-10-21|www.reddit.com
 nmminer-nm-tv-154-retailer-listed-as-bitaxe-nerdminer-tv|NMMiner NM-TV-154 (retailer-listed as Bitaxe NerdMiner TV)|2026-10-01|bt-miners.com
 ofen-2-pro|Ofen 2 Pro|2026-09-03|www.asicminervalue.com
+power-mining-bitcube-first-party-bitcoin-home-miner-using-canaan-avalon-a3197-with-1-216-sha-256-cores-stated-up-to-777-gh-s-turbo-and-550-gh-s-quiet-20-25-w-total-wall-draw-and-18-j-th-chip-efficiency-pre-orders-open|Power Mining Bitcube: first-party Bitcoin home miner using Canaan Avalon A3197 with 1,216 SHA-256 cores; stated up to 777 GH/s Turbo and 550 GH/s Quiet; 20–25 W total wall draw and 18 J/TH chip efficiency; pre-orders open.|2026-10-27|powermining.io
+power-mining-bitcube-pro-first-party-upcoming-bitcoin-miner-model-announced-as-coming-soon-stated-2-4-th-s-launch-target-q4-2026-and-delivery-target-q1-2027-detailed-hardware-specifications-are-pending|Power Mining Bitcube Pro: first-party upcoming Bitcoin-miner model announced as coming soon; stated 2.4 TH/s, launch target Q4 2026 and delivery target Q1 2027; detailed hardware specifications are pending.|2026-10-27|powermining.io
 teraflux-ai2500|Teraflux AI2500|2026-10-01|auradine.com
 teraflux-at1500|Teraflux AT1500|2026-09-03|www.f2pool.com
 thor-p2|Thor P2|2026-09-04|bitcointalk.org
