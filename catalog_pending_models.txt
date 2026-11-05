@@ -17,6 +17,7 @@ bitaxe-supra-hex-702|Bitaxe Supra Hex 702|2026-10-10|bitaxe.de
 bitaxe-supra-hex-703|Bitaxe Supra Hex 703|2026-09-03|bt-miners.com
 bitdeer-sealminer-a2-pro-air|Bitdeer Sealminer A2 Pro (Air)|2026-07-21|hashrateindex.com
 bitforge-nano|BitForge Nano|2026-09-03|www.asicminervalue.com
+bitfortun-bitcoin-asic-miner-model-unspecified|Bitfortun Bitcoin ASIC miner (model unspecified)|2026-11-05|bitcointalk.org
 bluax|BluAx|2026-09-03|www.asicminervalue.com
 bolon-b11|Bolon B11|2026-09-03|hashrateindex.com
 braiins-bmm100|Braiins BMM100|2026-09-05|www.asicminervalue.com
