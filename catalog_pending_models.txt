@@ -74,6 +74,7 @@ whatsminer-m6as-plus|WhatsMiner M6AS+|2026-09-23|aws-microbt-com-bucket.s3.us-we
 whatsminer-m6as-plus-plus|WhatsMiner M6AS++|2026-09-08|support.whatsminer.com
 whatsminer-m6bs-plus|WhatsMiner M6BS+|2026-09-23|aws-microbt-com-bucket.s3.us-west-2.amazonaws.com
 whatsminer-m6bs-plus-plus|WhatsMiner M6BS++|2026-10-18|aws-microbt-com-bucket.s3.us-west-2.amazonaws.com
+whatsminer-m74s-plus|WhatsMiner M74S+|2026-11-08|www.reddit.com
 whatsminer-m7a|WhatsMiner M7A|2026-10-18|aws-microbt-com-bucket.s3.us-west-2.amazonaws.com
 whatsminer-m7as|WhatsMiner M7AS|2026-10-18|aws-microbt-com-bucket.s3.us-west-2.amazonaws.com
 whatsminer-m7b|WhatsMiner M7B|2026-10-18|aws-microbt-com-bucket.s3.us-west-2.amazonaws.com
