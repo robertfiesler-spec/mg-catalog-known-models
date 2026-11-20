@@ -50,6 +50,7 @@ lucky-miner-lv08|Lucky Miner LV08|2026-09-04|www.cryptominerbros.com
 magic-miner-40t|Magic Miner 40T|2026-09-18|www.asicminervalue.com
 magicminer-bg01|Magicminer BG01|2026-09-14|www.cryptominerbros.com
 magicminer-bg02|Magicminer BG02|2026-09-14|www.cryptominerbros.com
+maxi-miner-paw|Maxi Miner Paw|2026-11-20|data.hashrateindex.com
 microbt-whatsminer-m79s|MicroBT WhatsMiner M79S|2026-07-25|www.asicminervalue.com
 microbt-whatsminer-m7as-hydro|MicroBT WhatsMiner M7AS Hydro|2026-10-25|www.reddit.com
 microbt-whatsminer-m7as-plus-plus-hydro|MicroBT WhatsMiner M7AS++ Hydro|2026-10-25|www.reddit.com
