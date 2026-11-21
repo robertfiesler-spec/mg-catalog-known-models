@@ -38,6 +38,7 @@ hammer-miner-bc04|Hammer Miner BC04|2026-09-21|hashrateindex.com
 hammer-miner-bc08|Hammer Miner BC08|2026-09-18|www.asicminervalue.com
 hammer-miner-thor-p2|Hammer Miner Thor P2|2026-09-15|www.asicminervalue.com
 hammer-miner-thor-x1|Hammer Miner Thor X1|2026-09-21|hashrateindex.com
+harlo-h15-dual|Harlo H15 Dual|2026-11-21|heliumdeploy.com
 heatbit-bitair|Heatbit Bitair|2026-09-14|www.asicminervalue.com
 heatbit-bitwater|Heatbit Bitwater|2026-10-25|heatbit.com
 jingle-miner-btc-solo-lite|Jingle Miner BTC Solo Lite|2026-09-03|www.asicminervalue.com
